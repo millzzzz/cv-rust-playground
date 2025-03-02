@@ -1,3 +1,5 @@
+docs resources https://www.coursera.org/learn/rust-fundamentals https://learn.microsoft.com/en-us/training/paths/rust-first-steps/
+
 # Idea:
 
 - I saw on Hacker News that this guy would essentially start prototyping in Python in the context of developing computer vision problems, however, then there would be another step of trying to optimize on the embedded in Rust. That made me to think, what's the need of switching environments when you could directly start in Rust light?
