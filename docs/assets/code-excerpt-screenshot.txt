@@ -1,0 +1,8 @@
+Repository: cv-rust-playground
+Generated: 2026-03-03
+
+Source: hello_world.rs
+
+fn main() {
+    println!("Hello, world!");
+} 
